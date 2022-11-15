@@ -7,4 +7,4 @@ Validation S32K118 on read node with FW for:
 
 Open renode and run with command:
 
-i @<path>/s32k118_gpio.resc
+i @path/s32k118_gpio.resc
